@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF02D44D21A22D0F00065317 /* AgeNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CF02D44C21A22D0F00065317 /* AgeNet.mlmodel */; };
 		CF656F9E21A21E680040DE29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF656F9D21A21E680040DE29 /* AppDelegate.swift */; };
 		CF656FA021A21E680040DE29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF656F9F21A21E680040DE29 /* ViewController.swift */; };
 		CF656FA321A21E680040DE29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF656FA121A21E680040DE29 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CF02D44C21A22D0F00065317 /* AgeNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = AgeNet.mlmodel; sourceTree = "<group>"; };
 		CF656F9A21A21E680040DE29 /* CoreML2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreML2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF656F9D21A21E680040DE29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CF656F9F21A21E680040DE29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				CF656FA421A21E6A0040DE29 /* Assets.xcassets */,
 				CF656FA621A21E6A0040DE29 /* LaunchScreen.storyboard */,
 				CF656FA921A21E6A0040DE29 /* Info.plist */,
+				CF02D44C21A22D0F00065317 /* AgeNet.mlmodel */,
 			);
 			path = CoreML2;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				CF656FA021A21E680040DE29 /* ViewController.swift in Sources */,
 				CF656F9E21A21E680040DE29 /* AppDelegate.swift in Sources */,
+				CF02D44D21A22D0F00065317 /* AgeNet.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
