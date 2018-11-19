@@ -1,6 +1,6 @@
 # CoreML_Starter
 
-A starter project to get you going with an example of CoreML
+A starter project to get you going with an example of CoreML. I followed the tutorial [here](https://heartbeat.fritz.ai/tutorial-on-using-core-ml-in-ios-with-vision-for-age-detection-f6e25c1d3e1f) with few corrections needed in the code and the AgeNet CoreML model was not available but found a copy (may not be) elsewhere. 
 
 My Swift skills are not swift. This should get you started, the rest of this readme is irrelevant.
 
